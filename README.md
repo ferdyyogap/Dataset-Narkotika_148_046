@@ -24,7 +24,7 @@ Dataset yang digunakan diperoleh dari website Direktori Putusan Mahkamah Agung P
 Berikut kami lampirkan link web nya : https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=3c40e48bbab311301a21c445b3c7fe57&jd=&tp=&court=099286PN265+++++++++++++++++++++&t_put=2022&t_reg=&t_upl=&t_pr= 
 
 Dataset tersebut berupa :
-- Nomer Putusan
+- Nomor Putusan
 - Lembaga Peradilan
 - Barang Bukti
 - Amar Putusan
